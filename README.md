@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sahil More
-**MCA student at Siescoms, Intern at Asian Paints**
+**MCA student at Siescoms**
 
 Email Me 👉 ✉️ **rfeynindia@gmail.com** 
 
