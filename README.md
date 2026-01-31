@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **rfeynindia@gmail.com** 
 
 -  **I’m currently pursuing MCA at SIESCOMS, Nerul(2nd year):** 
--  **I’m currently learning Javascript, React and strengthening my skills in Java/SpringBoot** 
+-  **I’m currently learning Data Engineering ,Javascript, React and strengthening my skills in Java/SpringBoot** 
 
 
 ## 🌐 Socials:
