@@ -10,7 +10,6 @@ Email Me 👉 ✉️ **rfeynindia@gmail.com**
 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -66,10 +65,16 @@ Email Me 👉 ✉️ **rfeynindia@gmail.com**
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 📈 Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilprojgith&theme=tokyonight" />
+</p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=sahilprojgith&icon=8&color=8)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilprojgith&label=Profile%20Views&color=a855f7&style=for-the-badge" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
