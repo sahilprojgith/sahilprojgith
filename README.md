@@ -1,192 +1,190 @@
 ````md
-<!-- ==================== CYBERPUNK HERO ==================== -->
+<h1 align="center">Hi 👋, I'm Sahil More</h1>
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,8,12&text=SAHIL%20MORE&fontColor=ff3131&fontSize=70&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Data%20Engineering%20Learner&descSize=20&descAlignY=66&animation=twinkling&stroke=ff0000"/>
-
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="600"/>
 </div>
 
 ---
 
-<div align="center">
+<h3 align="center">
+Building Intelligent Systems, APIs & Data Pipelines
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Data+Engineering+Learner;Spring+Boot+%7C+PySpark+%7C+Databricks;Building+Systems+That+Scale;Cyberpunk+Brutalist+Engineer" />
+<p align="center">
+Backend and Data Engineering learner with a strong interest in distributed systems and Generative AI.
+</p>
 
-</div>
+<p align="center">
+Focused on building scalable applications, real-world data workflows, and intelligent developer tools.
+</p>
 
 ---
 
-# ⚔️ SYSTEM PROFILE
+- 🌍 I'm based in India  
+- ✉️ You can contact me at **rfeynindia@gmail.com**  
+- 🚀 Currently exploring **Databricks, PySpark & Distributed Data Systems**  
+- ⚡ Building with **Java, Spring Boot, React & GenAI frameworks**
+
+---
+
+## ⚔️ Tech Stack
+
+<p align="left">
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/>
+</a>
+
+<a href="https://graphql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL"/>
+</a>
+
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hibernate-colored.svg" width="36" height="36" alt="Hibernate"/>
+</a>
+
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/>
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="36" height="36" alt="Azure Data Factory"/>
+</a>
+
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="36" height="36" alt="Databricks"/>
+</a>
+
+<a href="https://spark.apache.org/pyspark/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" height="36" alt="PySpark"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="36" height="36" alt="SSMS"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+
+<a href="https://github.com/sahilprojgith" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+</picture>
+</a>
+
+<a href="https://x.com/tommymore12" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
+</picture>
+</a>
+
+<a href="https://www.linkedin.com/in/sahil-more-16a610284/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</picture>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<a href="http://www.github.com/sahilprojgith">
+<img src="https://github-readme-stats.vercel.app/api?username=sahilprojgith&show_icons=true&hide=&count_private=true&title_color=ff3131&text_color=f97316&icon_color=ff3131&bg_color=0f0f0f&hide_border=true&show_icons=true" alt="Sahil's GitHub stats" />
+</a>
+
+<a href="http://www.github.com/sahilprojgith">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilprojgith&stroke=ff3131&background=0f0f0f&ring=ff3131&fire=ff3131&currStreakLabel=f97316&sideNums=f97316&currStreakNum=ff3131&sideLabels=f97316&dates=f97316&hide_border=true" />
+</a>
+
+<a href="http://www.github.com/sahilprojgith">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilprojgith&langs_count=10&title_color=ff3131&text_color=f97316&icon_color=ff3131&bg_color=0f0f0f&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilprojgith/sahilprojgith/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+## ⚡ Cyberpunk Core
+
+<div align="center">
+  <img src="https://media.tenor.com/eYCFm9KLgskAAAAd/cyberpunk-edgerunners.gif" width="700"/>
+</div>
+
+---
 
 ```bash
-sahil@system:~$ whoami
-
-> MCA Student @ SIESCOMS
-> Backend + Data Engineering Focused
-> Building APIs, pipelines & distributed systems
-> Learning by building real-world projects
-
-STACK:
-- Java / Spring Boot
-- SQL / PostgreSQL / SSMS
-- React / JavaScript
-- PySpark / Databricks
-- Azure Data Factory
-- MongoDB / MySQL
+> SYSTEM STATUS : ONLINE
+> CURRENT ARC   : BACKEND + DATA ENGINEERING + GENAI
+> BUILD MODE    : ACTIVE
 ````
 
----
-
-# 🧠 CURRENT FOCUS
-
-* Building scalable backend systems
-* Learning distributed data processing
-* Exploring ETL & pipeline architectures
-* Strengthening Java + SQL foundations
-* Diving deeper into PySpark & Databricks
-
----
-
-# 🌐 CONNECT
-
-<div align="center">
-
-<a href="mailto:rfeynindia@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sahil-more-16a610284/">
-<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=ff3131"/>
-</a>
-
-<a href="https://x.com/tommymore12">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=ff3131"/>
-</a>
-
-</div>
-
----
-
-# ⚡ TECH ARSENAL
-
-## Backend & APIs
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk\&logoColor=red)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge\&logo=springboot\&logoColor=red)
-![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge\&logo=hibernate\&logoColor=red)
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge\&logo=graphql\&logoColor=red)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens\&logoColor=red)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge\&logo=rabbitmq\&logoColor=red)
-
-</div>
-
----
-
-## Frontend
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react\&logoColor=red)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript\&logoColor=red)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5\&logoColor=red)
-
-</div>
-
----
-
-## Data Engineering
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python\&logoColor=red)
-![PySpark](https://img.shields.io/badge/PySpark-black?style=for-the-badge\&logo=apachespark\&logoColor=red)
-![Databricks](https://img.shields.io/badge/Databricks-black?style=for-the-badge\&logo=databricks\&logoColor=red)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-black?style=for-the-badge\&logo=microsoftazure\&logoColor=red)
-![SSMS](https://img.shields.io/badge/SSMS-black?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql\&logoColor=red)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql\&logoColor=red)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb\&logoColor=red)
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilprojgith&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilprojgith&theme=shadow_red&hide_border=true&background=000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilprojgith&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000"/>
-
-</div>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilprojgith&bg_color=000000&color=ff3131&line=ff0000&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sahilprojgith/sahilprojgith/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🚨 FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/sahilprojgith">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilprojgith&repo=YOUR_REPO_NAME&theme=shadow_red&hide_border=true&bg_color=000000"/>
-</a>
-
-<a href="https://github.com/sahilprojgith">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilprojgith&repo=YOUR_SECOND_REPO&theme=shadow_red&hide_border=true&bg_color=000000"/>
-</a>
-
-</div>
-
----
-
-# 🎮 CYBERPUNK CORE
-
-<div align="center">
-
-<img src="https://media.tenor.com/eYCFm9KLgskAAAAd/cyberpunk-edgerunners.gif" width="700"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-> SYSTEM STATUS : ONLINE
-> BUILD MODE    : ACTIVE
-> CURRENT ARC   : DATA ENGINEERING
 ```
-
-</div>
 ```
