@@ -3,10 +3,6 @@
 
 Email Me 👉 ✉️ **rfeynindia@gmail.com** 
 
--  **I’m currently pursuing MCA at SIESCOMS, Nerul(2nd year):** 
--  **I’m currently learning Data Engineering ,Javascript, React and strengthening my skills in Java/SpringBoot** 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-more-16a610284/)
 
