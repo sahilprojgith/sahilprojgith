@@ -3,6 +3,10 @@
 
 Email Me 👉 ✉️ **rfeynindia@gmail.com** 
 
+<p align="center">
+  <img src="./kafka.svg" width="400" alt="Franz Kafka pixel art"/>
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-more-16a610284/)
 
@@ -47,8 +51,6 @@ Email Me 👉 ✉️ **rfeynindia@gmail.com**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe_Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe_Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-# 📊 GitHub Stats:
 
 # 📊 GitHub Stats
 
