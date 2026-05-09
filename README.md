@@ -2,7 +2,7 @@
 **Wandering.....**
 
 <p align="center">
-  <img src="./guts looking.jpg" width="300"/>
+  <img src="./guts looking.jpg" width="270"/>
 </p>
 
 ## 🌐 Socials:
