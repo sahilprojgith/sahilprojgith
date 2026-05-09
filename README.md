@@ -85,7 +85,26 @@ Email Me 👉 ✉️ **rfeynindia@gmail.com**
 <p align="center">
   <img src="./mpm.png" width="500"/>
 </p>
+Here's the README snippet for that layout — paste this wherever you want the gallery section:
+markdown## 🎨 Gallery
 
+<p align="center">
+  <img src="./guts looking.jpg" width="480"/>
+</p>
+
+<p align="center">
+  <img src="./dexter chill.jpg" width="130"/>
+  &nbsp;
+  <img src="./gaze at stars.jpg" width="130"/>
+  &nbsp;
+  <img src="./gosling in dream.jpg" width="130"/>
+  &nbsp;
+  <img src="./kafka.jpg" width="130"/>
+  &nbsp;
+  <img src="./look peek.jpg" width="130"/>
+  &nbsp;
+  <img src="./mpm.png" width="130"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
